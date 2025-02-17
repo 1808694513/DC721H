@@ -1,0 +1,37 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    },
+    "hide-files.files": [],
+    "files.associations": {
+        "adc.h": "c",
+        "hc32f002.h": "c",
+        "base_types.h": "c",
+        "timer.h": "c",
+        "system.h": "c",
+        "wdt.h": "c",
+        "main.h": "c",
+        "sysctrl.h": "c",
+        "gpio.h": "c",
+        "bsp_timer.h": "c",
+        "bsp_gpio.h": "c",
+        "user_adc.h": "c",
+        "control_433.h": "c",
+        "user_iwdt.h": "c",
+        "user_button.h": "c",
+        "user_rf433.h": "c",
+        "user_led.h": "c",
+        "user_mot.h": "c",
+        "user_include.h": "c",
+        "user_system.h": "c",
+        "user_light.h": "c",
+        "user_flash.h": "c",
+        "flash.h": "c",
+        "user.h": "c"
+    }
+}
